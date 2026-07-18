@@ -135,7 +135,6 @@ async function loadCatalogue() {
     addCustomHeaders("pulsar-table", catalogue.fields.pulsar, catalogue.showMedia.pulsar);
     byId("pulsar-count").textContent = payload.summary.pulsars;
     byId("frb-source-count").textContent = payload.summary.frb_sources;
-    byId("frb-burst-count").textContent = payload.summary.frb_bursts;
     byId("catalogue-status").textContent = "";
     draw();
   } catch {
