@@ -51,7 +51,6 @@ function addFrbRow(item) {
   name.append(strong, id);
   row.append(
     name,
-    cell(item.source_name),
     cell(`${item.ra}\n${item.dec}`, "coord"),
     cell(item.burst_count),
     cell(number(item.max_dm, 1)),
