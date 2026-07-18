@@ -1,0 +1,9 @@
+{
+  "hero_lede": "A catalogue of pulsars and fast radio bursts discovered in the FAST drift-scan survey.",
+  "survey_intro": "POP is a piggyback pulsar survey conducted by the FAST science group. It searches drift-scan observations for pulsars, intermittent emitters and fast radio bursts while making the resulting catalogue useful to the wider pulsar community.",
+  "survey_methods": "We use single-pulse (SP) searches for long-period pulsars, RRATs and FRBs; \nFFT searches for millisecond pulsars and binary pulsars; \nFFA searches for intermediate- and long-period pulsars.",
+  "survey_footer": "The tables below list publicly released discoveries. Records are updated after scientific review; source-level FRB entries retain their individual burst detections.\nPI: Lei Qian (钱磊, NAOC). \nCollaborators: Zhichen Pan (潘之辰, NAOC), YiChi Zhang (张亦弛, NAOC), Guangyuan Zhang (张光远, NAOC), Xinyu Zhang (张欣雨, NAOC), Luyao Wang (王路尧, NAOC), Ralph Eatough (瑞夫, NOAC)",
+  "hero_image_url": "./fast-hero.jpg",
+  "survey_pop_figure_url": "./pop-drift-scan.png",
+  "survey_fast19_figure_url": "./fast19-drift-scan.png"
+}

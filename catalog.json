@@ -1,0 +1,1279 @@
+{
+  "summary": {
+    "pulsars": 51,
+    "frb_sources": 9,
+    "frb_bursts": 16
+  },
+  "frbs": [
+    {
+      "frb_id": "DFC001",
+      "frb_name": "FRB 20240519A",
+      "source_name": "DEC-120611-7",
+      "ra": "01:19:06.76",
+      "dec": "-12:07:35.5",
+      "note": "",
+      "burst_count": 1,
+      "max_dm": 1846.7,
+      "custom_values": {},
+      "media": []
+    },
+    {
+      "frb_id": "DFC002",
+      "frb_name": "FRB 20241112A",
+      "source_name": "DEC+563106-19",
+      "ra": "14:58:24.131",
+      "dec": "+56:19:5.56",
+      "note": "Repeating FRB",
+      "burst_count": 8,
+      "max_dm": 1023.9,
+      "custom_values": {},
+      "media": []
+    },
+    {
+      "frb_id": "DFC003",
+      "frb_name": "FRB 20260326A",
+      "source_name": "DEC-122751-13",
+      "ra": "06:56:39.17",
+      "dec": "-12:20:8.62",
+      "note": "",
+      "burst_count": 1,
+      "max_dm": 1288.1,
+      "custom_values": {},
+      "media": []
+    },
+    {
+      "frb_id": "DFC004",
+      "frb_name": "FRB 20251011A",
+      "source_name": "DEC+061859-12",
+      "ra": "10:22:56.34",
+      "dec": "+06:27:22.40",
+      "note": "",
+      "burst_count": 1,
+      "max_dm": 1683.7,
+      "custom_values": {},
+      "media": []
+    },
+    {
+      "frb_id": "DFC005",
+      "frb_name": "FRB 20251125A",
+      "source_name": "DEC+095541-14",
+      "ra": "10:23:47.53",
+      "dec": "+09:51:24.74",
+      "note": "Repeating FRB",
+      "burst_count": 1,
+      "max_dm": 585.3,
+      "custom_values": {},
+      "media": []
+    },
+    {
+      "frb_id": "DFC006",
+      "frb_name": "FRB 20251219A",
+      "source_name": "DEC+101721-12",
+      "ra": "09:21:18.97",
+      "dec": "+10:23:21.12",
+      "note": "",
+      "burst_count": 1,
+      "max_dm": 568.3,
+      "custom_values": {},
+      "media": []
+    },
+    {
+      "frb_id": "DFC007",
+      "frb_name": "FRB 20241019D",
+      "source_name": "DEC-101750-7",
+      "ra": "08:21:29.60",
+      "dec": "-10:15:52.60",
+      "note": "",
+      "burst_count": 1,
+      "max_dm": 2710.2,
+      "custom_values": {},
+      "media": []
+    },
+    {
+      "frb_id": "DFC008",
+      "frb_name": "FRB 20250716C",
+      "source_name": "DEC+560926-10",
+      "ra": "09:05:5.00",
+      "dec": "+56:00:44.90",
+      "note": "",
+      "burst_count": 1,
+      "max_dm": 580.1,
+      "custom_values": {},
+      "media": []
+    },
+    {
+      "frb_id": "DFC009",
+      "frb_name": "FRB 20250511A",
+      "source_name": "DEC+632250-19",
+      "ra": "00:42:59.26",
+      "dec": "+63:17:28.44",
+      "note": "",
+      "burst_count": 1,
+      "max_dm": 1330.4,
+      "custom_values": {},
+      "media": []
+    }
+  ],
+  "pulsars": [
+    {
+      "catalog_id": "DC001",
+      "display_name": "J1933+0623",
+      "ra": "19:33:38.2",
+      "dec": "+06:23:55.56",
+      "dm": 96.98,
+      "period_s": 0.546527,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260318",
+        "discovery_date": "20260213",
+        "discovery_method": "SP",
+        "note": "The first discovery pulsar"
+      },
+      "media": [
+        {
+          "url": "./media/ov7UWaO5Cc6EaiRvozP0ogtdi2O0XG6E.png",
+          "caption": "DC001 Discovery plot"
+        },
+        {
+          "url": "./media/Bmn_IXj0VO9P1SwH7f3Id6xir4ZLXKLG.png",
+          "caption": "DC001 confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC002",
+      "display_name": "J2012+0704",
+      "ra": "20:12:50.4",
+      "dec": "+07:04:58.78",
+      "dm": 71.7,
+      "period_s": 6.35526,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260319",
+        "discovery_date": "20260313",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/vpjHCoVKxBkKXtEX6zfDE5XhlkSoNg0a.png",
+          "caption": "DC002 Discovery plot"
+        },
+        {
+          "url": "./media/lj87T1l2vHajJbf7-vsTN5N2vioT6Paz.png",
+          "caption": "DC002 confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC003",
+      "display_name": "J0139+0701",
+      "ra": "01:39:27.0",
+      "dec": "+07:01:32.44",
+      "dm": 49.467,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260320",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/sxlve2JwFCP9lubJecktm9GXlX_ANcvp.png",
+          "caption": "DC003 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC005",
+      "display_name": "J0517+0723",
+      "ra": "05:17:13.9",
+      "dec": "+07:23:13.30",
+      "dm": 33.3,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260321",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/87BJ4rLXzOcuaj1GaE1CTLRHJnp1TGIg.png",
+          "caption": "DC005 Discovery post"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC006",
+      "display_name": "J0158+6054",
+      "ra": "01:58:26.2",
+      "dec": "+60:54:57.36",
+      "dm": 159.4,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260324",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/K0EbJfGSnlncECrjgQQUcNPFHv5tG0p2.png",
+          "caption": "DC006 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC007",
+      "display_name": "J1628+0614",
+      "ra": "16:28:55.0",
+      "dec": "+06:14:49.84",
+      "dm": 52.0,
+      "period_s": 1.38128,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260410",
+        "discovery_date": "20260402",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/NVF8kVMHsIQE2EhCCwXAR-KMekLHG59X.png",
+          "caption": "DC007 Discovery plot"
+        },
+        {
+          "url": "./media/6uF-kKCoJHJzClMXYjkbXnqxXYdZaucZ.png",
+          "caption": "DC007 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC008",
+      "display_name": "J1147+0828",
+      "ra": "11:47:41.3",
+      "dec": "+08:28:11.84",
+      "dm": 26.94,
+      "period_s": 1.62561,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260704",
+        "discovery_date": "20260515",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/Gks9zA9mUKlxhBdTOmLD2mn9usHVTY8p.png",
+          "caption": "DC008 Discovery plot"
+        },
+        {
+          "url": "./media/cUbschOFsiwatmYnE4Th9gsny_i53ZDN.png",
+          "caption": "DC008 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC009",
+      "display_name": "J1550+0943",
+      "ra": "15:50:04.0",
+      "dec": "+09:43:27.06",
+      "dm": 20.0,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260515",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/BQla5p44SWv9GPjFaN3orFejmKzFQ-by.png",
+          "caption": "DC009 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC014",
+      "display_name": "J0549+1138",
+      "ra": "05:49:29.3",
+      "dec": "+11:38:34.78",
+      "dm": 96.02,
+      "period_s": 1.21434,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260703",
+        "discovery_date": "20260515",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/qsj6rM0SqagyM4w8Ltna0CdGcytQaQp5.png",
+          "caption": "DC014 Discovery plot"
+        },
+        {
+          "url": "./media/I0Wot7jg7gfBBbPR33zKxNWPgDdxvxol.png",
+          "caption": "DC014 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC015",
+      "display_name": "J0212+2816",
+      "ra": "02:12:57.4",
+      "dec": "+28:16:14.54",
+      "dm": 34.6,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260518",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/1Tbx7jBmYDkY1h3oM5fWp0W0_cQ3oVSt.png",
+          "caption": "DC015 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC016",
+      "display_name": "J0905-0741",
+      "ra": "09:05:01.1",
+      "dec": "-07:41:58.26",
+      "dm": 27.04,
+      "period_s": 1.63788,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260516",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/whjZkTjQakPc1LUb5mdACC9Udo20c_zf.png",
+          "caption": "DC016 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC017",
+      "display_name": "J0153-0817",
+      "ra": "01:53:10.7",
+      "dec": "-08:17:23.16",
+      "dm": 31.6,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260517",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/DN_K1DuR0gNHcgmQTNrlj1jvlPDarAu6.png",
+          "caption": "DC017 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC019",
+      "display_name": "J0751-1021",
+      "ra": "07:51:04.6",
+      "dec": "-10:21:38.36",
+      "dm": 99.33,
+      "period_s": 2.19828,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260705",
+        "discovery_date": "20260516",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/56OqechOWMsNxS9dJ7QqFN0eyJ479CFe.png",
+          "caption": "DC019 Discovery plot"
+        },
+        {
+          "url": "./media/0_1U15-LfBFtAmyupyb_8vsJ3hBJgJ2M.png",
+          "caption": "DC019 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC020",
+      "display_name": "J0242-1019",
+      "ra": "02:42:23.4",
+      "dec": "-10:19:22.88",
+      "dm": 22.6,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260517",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/R6On3qx87PFXsnVYeAGVnKoh0wtB_m4R.png",
+          "caption": "DC020 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC022",
+      "display_name": "J2030+0156",
+      "ra": "20:30:22.1",
+      "dec": "+01:56:00.16",
+      "dm": 50.95,
+      "period_s": 0.845621,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260704",
+        "discovery_date": "20260521",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/0_CUB0JKeZS71aoDRiyXNQoJYXcz47_Y.png",
+          "caption": "DC022 Discovery plot"
+        },
+        {
+          "url": "./media/byzDfaVDe--DTOW_tnTiH89ZDvSFNSY0.png",
+          "caption": "DC022 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC023",
+      "display_name": "J1644+0232",
+      "ra": "16:44:38.6",
+      "dec": "+02:32:32.24",
+      "dm": 14.75,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260522",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/5vvZ43SH-7vw5TZAWxBTciRGbx8sZGzX.png",
+          "caption": "DC023 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC024",
+      "display_name": "J2203+0248",
+      "ra": "22:03:47.9",
+      "dec": "+02:48:27.42",
+      "dm": 30.47,
+      "period_s": 0.337123,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260706",
+        "discovery_date": "20260521",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/YxirPjWY1mQ3q8zQS9efxWnxQnWcpy6l.png",
+          "caption": "DC024 Discovery plot"
+        },
+        {
+          "url": "./media/UuwW-HGj9127eXTbbBml5jvpeSW2HLTp.png",
+          "caption": "DC024 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC026",
+      "display_name": "J1600+0344",
+      "ra": "16:00:08.8",
+      "dec": "+03:44:20.76",
+      "dm": 31.1,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260522",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/2XuutMama8cO87cjakbcvx92ZW5KR62v.png",
+          "caption": "DC026 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC027",
+      "display_name": "J0916+0321",
+      "ra": "09:16:35.5",
+      "dec": "+03:21:31.94",
+      "dm": 32.0,
+      "period_s": 1.50495,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260522",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/yOkBl_mYJ5fBmB1hyfSBEInTB5TwEuo7.png",
+          "caption": "DC027 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC028",
+      "display_name": "J0905+0347",
+      "ra": "09:05:02.6",
+      "dec": "+03:47:44.70",
+      "dm": 38.62,
+      "period_s": 1.70915,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260702",
+        "discovery_date": "20260522",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/-nwqvKN_kxPbEdLsbH-X9cvM_AHT3I_e.png",
+          "caption": "DC028 Discovery plot"
+        },
+        {
+          "url": "./media/DPcV3azWHfye1IXzizgA-6TNCZz2SaWq.png",
+          "caption": "DC028 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC029",
+      "display_name": "J1531+0521",
+      "ra": "15:31:35.9",
+      "dec": "+05:21:16.08",
+      "dm": 30.5,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260522",
+        "discovery_method": "SP"
+      },
+      "media": [
+        {
+          "url": "./media/pHh3U6LE27q4AjqFa_98lErJIdVg1y9I.png",
+          "caption": "DC029 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC030",
+      "display_name": "J2218+2902",
+      "ra": "22:18:15.9",
+      "dec": "+29:02:59.24",
+      "dm": 66.876,
+      "period_s": 17.494,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260703",
+        "discovery_date": "20260518",
+        "discovery_method": "SP",
+        "note": "The pulsar with the longest period in the POP."
+      },
+      "media": [
+        {
+          "url": "./media/-knopw7ukQRN4R6kV2nGJLqKSimWAuxq.png",
+          "caption": "DC030 Discovery plot"
+        },
+        {
+          "url": "./media/1lPPWfektlVb30FmQrE6213drIwWJudt.png",
+          "caption": "DC030 Confimed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC031",
+      "display_name": "J2012+2918",
+      "ra": "20:12:38.6",
+      "dec": "+29:18:57.02",
+      "dm": 29.4,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260518",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/Tyr9jrnhMSU9nnu1paohmo1aykbDEuOs.png",
+          "caption": "DC031 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC032",
+      "display_name": "J2244+2920",
+      "ra": "22:44:50.2",
+      "dec": "+29:20:05.38",
+      "dm": 39.19,
+      "period_s": 2.012,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260716",
+        "discovery_date": "20260518",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/tvSitoz-qW2BCQSyagOZENUtNrwvrkbu.png",
+          "caption": "DC032 Discovery plot"
+        },
+        {
+          "url": "./media/4A63V-_Bys1xH6grAIZfFTSVVCpG2Ula.png",
+          "caption": "DC032_Confirmed_plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC033",
+      "display_name": "J2155+2945",
+      "ra": "21:55:43.4",
+      "dec": "+29:45:10.52",
+      "dm": 78.7,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260518",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/I9tqqMVySz43xeSuLrqXCwu7UbxQAtJW.png",
+          "caption": "DC033 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC034",
+      "display_name": "J1643+3001",
+      "ra": "16:43:16.4",
+      "dec": "+30:01:08.40",
+      "dm": 42.8,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260518",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/owt4k56h-q1JB8PGjPWdxXXBKEuo15fv.png",
+          "caption": "DC034 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC036",
+      "display_name": "J0019+6505",
+      "ra": "00:19:01.0",
+      "dec": "+65:05:39.24",
+      "dm": 210.28,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260527",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/C8HaCRlubQxO9p5K1BcjoA5TK-WJEkUh.png",
+          "caption": "DC036 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC038",
+      "display_name": "J2340+6501",
+      "ra": "23:40:11.6",
+      "dec": "+65:01:09.84",
+      "dm": 68.867,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260527",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/19SYvrS2GhflpPRA_AQUQmsD9xg7p1CG.png",
+          "caption": "DC038 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC039",
+      "display_name": "J2002+6440",
+      "ra": "20:02:41.7",
+      "dec": "+64:40:40.80",
+      "dm": 62.75,
+      "period_s": 0.469406,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260628",
+        "discovery_date": "20260527",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/Bub2DLSS3vO3FxCDw7dbgWr4uVpomv7R.png",
+          "caption": "DC039 Discovery plot"
+        },
+        {
+          "url": "./media/rrslegA7sz-k6ozSeL7aljCvCU3lTUBm.png",
+          "caption": "DC039 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC041",
+      "display_name": "J1254+6423",
+      "ra": "12:54:12.6",
+      "dec": "+64:23:29.56",
+      "dm": 37.8,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260526",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/vIpACMnVrl28pnZ5D5iWrzii2cEvApNK.png",
+          "caption": "DC041 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC042",
+      "display_name": "J0101+6427",
+      "ra": "01:01:03.5",
+      "dec": "+64:27:01.60",
+      "dm": 228.9,
+      "period_s": 0.153646,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260628",
+        "discovery_date": "20260527",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/nh7CvVefElC--Ll3nwMa5Y8XEKvgn1g1.png",
+          "caption": "DC042 Discovery plot"
+        },
+        {
+          "url": "./media/c1qpRiZI_k4DEKAmyd0ZzKu8LDk6t5C6.png",
+          "caption": "DC042 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC044",
+      "display_name": "J0010+6349",
+      "ra": "00:10:12.4",
+      "dec": "+63:49:23.42",
+      "dm": 139.067,
+      "period_s": 2.19808,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260526",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/4i1fXRE4-pCyQ0CE0cBCvBzGtFZFyZAA.png",
+          "caption": "DC044 Discovery plot"
+        },
+        {
+          "url": "./media/A3cm2Vw3TFmnJ9OqmNL-cq1h7djj_395.png",
+          "caption": "DC045 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC045",
+      "display_name": "J0049+6343",
+      "ra": "00:49:45.8",
+      "dec": "+63:43:41.30",
+      "dm": 38.219,
+      "period_s": 0.211448,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260713",
+        "discovery_date": "20260526",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/2tZFe5z8GDUcmaWdnN5atZQ6gefcOmMN.png",
+          "caption": "DC045 Discovery plot"
+        },
+        {
+          "url": "./media/E3wYmrVbogd0vykTUIhJvVztrujjsqm8.png",
+          "caption": "DC045 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC046",
+      "display_name": "J2219+6330",
+      "ra": "22:19:27.4",
+      "dec": "+63:30:00.90",
+      "dm": 281.5,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260527",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/ZNaIb9qDz1B0HDbImiwEa0yAnEynAmon.png",
+          "caption": "DC046 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC047",
+      "display_name": "J2203+6309",
+      "ra": "22:03:21.2",
+      "dec": "+63:09:30.26",
+      "dm": 211.6,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260526",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/p_R1BLXNB9UCxZ8fZevMvX3EW9Nl-Qv9.png",
+          "caption": "DC047 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC049",
+      "display_name": "J2352+6205",
+      "ra": "23:52:51.4",
+      "dec": "+62:05:37.16",
+      "dm": 178.01,
+      "period_s": 4.29767,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260714",
+        "discovery_date": "20260526",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/TIsXIsbfdsLhIWEVwqWKkBNKxVbQHftJ.png",
+          "caption": "DC049 Discovery plot"
+        },
+        {
+          "url": "./media/202ZXR5tq67zxGvJyQhZ0nWErOfOB1B_.png",
+          "caption": "DC049 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC051",
+      "display_name": "J1135+6032",
+      "ra": "11:35:33.7",
+      "dec": "+60:32:07.54",
+      "dm": 11.75,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260526",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/19xyzTdgauU7zxv0ckh-IDFRvqAxq3VM.png",
+          "caption": "DC051 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC052",
+      "display_name": "J1301+6005",
+      "ra": "13:01:27.7",
+      "dec": "+60:05:57.24",
+      "dm": 28.3,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260526",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/xNWnhFLlxiI7OKu9nys2wyFZ_hHkKsPV.png",
+          "caption": "DC052 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC055",
+      "display_name": "J1442+1402",
+      "ra": "14:42:00.3",
+      "dec": "+14:02:15.00",
+      "dm": 26.7,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260525",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/aljALESOGIlqMcIOxwdpxFVZsOAIlA25.png",
+          "caption": "DC055 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC056",
+      "display_name": "J0220+1350",
+      "ra": "02:20:03.5",
+      "dec": "+13:50:50.16",
+      "dm": 39.837,
+      "period_s": 0.604521,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260713",
+        "discovery_date": "20260525",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/b_vQS3Y-4YJeNiIMe9cltyWK6xw8SfUV.png",
+          "caption": "DC056 Discovery plot"
+        },
+        {
+          "url": "./media/ikE1z_Py4mPXO1tbhiRP7GBswHHIJo6E.png",
+          "caption": "DC056 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC059",
+      "display_name": "J1615+1332",
+      "ra": "16:15:37.4",
+      "dec": "+13:32:35.80",
+      "dm": 33.4,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260525",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/CkoBcuWY7hFvvQlWqMjdO6wSdD13MKB7.png",
+          "caption": "DC059 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC060",
+      "display_name": "J0532+1314",
+      "ra": "05:32:10.8",
+      "dec": "+13:14:21.64",
+      "dm": 97.225,
+      "period_s": 5.73757,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260706",
+        "discovery_date": "20260523",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/e0xBx7oc4RT7BAl_JhTMrQ3cbfmSCvme.png",
+          "caption": "DC060 Discovery plot"
+        },
+        {
+          "url": "./media/jDNIGDj6P_OyqJVcnNSaVmc69z6xK70d.png",
+          "caption": "DC060 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC061",
+      "display_name": "J1450+1138",
+      "ra": "14:50:47.8",
+      "dec": "+11:38:36.38",
+      "dm": 32.8,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260522",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/MbkJpIi57rImV2aTbs6omVDgaa7rhpNC.png",
+          "caption": "DC061 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC062",
+      "display_name": "J1347+0905",
+      "ra": "13:47:49.2",
+      "dec": "+09:05:48.22",
+      "dm": 30.1,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260522",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/tyGVi5h55hVIC1GzB608UiFmAND8sIFD.png",
+          "caption": "DC062 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC063",
+      "display_name": "J1158+0736",
+      "ra": "11:58:45.6",
+      "dec": "+07:36:53.34",
+      "dm": 23.9,
+      "period_s": 11.0692,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260708",
+        "discovery_date": "20260522",
+        "discovery_method": "SP",
+        "note": "RRAT"
+      },
+      "media": [
+        {
+          "url": "./media/vK1OfPaw4KzE8d931DN_NXoyKCyr3bXL.png",
+          "caption": "DC063 Discovery plot"
+        },
+        {
+          "url": "./media/SWhozhIw7uJ1zo9qiZ65O20EjJSBtuAs.png",
+          "caption": "DC063 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC064",
+      "display_name": "J1655+0633",
+      "ra": "16:55:14.3",
+      "dec": "+06:33:02.90",
+      "dm": 54.825,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260521",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/HGaU_IGpsL4M06xX1FwCEOu4liM8yiFD.png",
+          "caption": "DC064 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC066",
+      "display_name": "J1531+0520",
+      "ra": "15:31:45.2",
+      "dec": "+05:20:05.22",
+      "dm": 30.733,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "20260716",
+        "discovery_date": "20260521",
+        "discovery_method": "SP",
+        "note": "RRAT"
+      },
+      "media": [
+        {
+          "url": "./media/iNpkbO8bx63XWUETw3xhetiVgGVWw4iK.png",
+          "caption": "DC066 Discovery plot"
+        },
+        {
+          "url": "./media/uGnDCKLwwIyrNXROzOTPAaDVl9g-Xszj.png",
+          "caption": "DC066 Confirmed plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC067",
+      "display_name": "J0857-1334",
+      "ra": "08:57:13.1",
+      "dec": "-13:34:15.98",
+      "dm": 48.2,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260525",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/SyM7LXZ2FDKQukUbQqEJWlkU02Gcak6V.png",
+          "caption": "DC067 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC070",
+      "display_name": "J1204-1231",
+      "ra": "12:04:25.8",
+      "dec": "-12:31:34.36",
+      "dm": 30.732,
+      "period_s": 1.2151,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260523",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/upHMpIkTEcPAwxT7tecO3R8m34ealiTT.png",
+          "caption": "DC070 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC072",
+      "display_name": "J1745-1116",
+      "ra": "17:45:26.1",
+      "dec": "-11:16:20.58",
+      "dm": 125.1,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260523",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/iQKhhGJfLtN2de_YbRZKofFHbCefJhk9.png",
+          "caption": "DC072 Discovery plot"
+        }
+      ]
+    },
+    {
+      "catalog_id": "DC073",
+      "display_name": "J1943-1036",
+      "ra": "19:43:17.2",
+      "dec": "-10:36:27.82",
+      "dm": 64.4,
+      "period_s": null,
+      "status": "confirmed",
+      "custom_values": {
+        "confirmed_date": "",
+        "discovery_date": "20260522",
+        "discovery_method": "SP",
+        "note": ""
+      },
+      "media": [
+        {
+          "url": "./media/ZF9ozvSksFACTSRZVsNczYHC5ZjtEvFW.png",
+          "caption": "DC073 Discovery plot"
+        }
+      ]
+    }
+  ],
+  "fields": {
+    "pulsar": [
+      {
+        "id": 1,
+        "key": "discovery_method",
+        "label": "Discovery Method",
+        "value_type": "text"
+      },
+      {
+        "id": 2,
+        "key": "discovery_date",
+        "label": "Discovery Date",
+        "value_type": "text"
+      },
+      {
+        "id": 3,
+        "key": "confirmed_date",
+        "label": "Confirmed_Date",
+        "value_type": "text"
+      },
+      {
+        "id": 4,
+        "key": "note",
+        "label": "Note",
+        "value_type": "text"
+      }
+    ],
+    "frb": []
+  }
+}

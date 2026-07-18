@@ -1,0 +1,49 @@
+<!doctype html>
+<html data-static-mirror="true" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="FAST Piggyback Observation of Pulsars public discovery catalogue.">
+    <meta property="og:title" content="POP Pulsar Survey">
+    <meta property="og:description" content="FAST Piggyback Observation of Pulsars public discovery catalogue.">
+    <meta property="og:image" content="./og.png">
+    <title>POP Pulsar Survey | FAST</title>
+    <link rel="icon" href="./favicon.svg">
+    <link rel="stylesheet" href="./style.css">
+    <script src="./site.js" defer></script>
+  </head>
+  <body>
+    <main>
+      <header class="site-header">
+        <a class="brand" href="#top" aria-label="POP survey home"><span class="brand-mark">POP</span><span class="brand-copy">FAST DRIFT-SCAN<br>PULSAR SURVEY</span></a>
+        <nav aria-label="Primary navigation"><a href="#survey">Survey</a><a href="#catalog">Catalogue</a><a href="#citation">Citation</a></nav>
+      </header>
+      <section class="hero" id="top">
+        <img class="hero-image" id="hero-image" src="./fast-hero.jpg" alt="FAST telescope structure during site operations">
+        <div class="hero-copy"><p class="eyebrow">FAST PIGGYBACK PROGRAMME</p><h1>POP</h1><p class="hero-name">Piggyback Observation of Pulsars</p>
+          <p class="hero-lede" id="hero-lede">A living catalogue of pulsars and fast radio bursts discovered in the FAST drift-scan survey.</p>
+          <a class="hero-link" href="#catalog">Explore the catalogue <span aria-hidden="true">↓</span></a></div>
+      </section>
+      <section class="intro section-shell" id="survey">
+        <div><p class="section-kicker">THE SURVEY</p></div>
+        <div class="intro-copy"><p id="survey-intro">POP is a piggyback pulsar survey conducted by the FAST science group. It searches drift-scan observations for pulsars, intermittent emitters and fast radio bursts while making the resulting catalogue useful to the wider pulsar community.</p><p id="survey-methods">We use single-pulse searches for long-period pulsars, RRATs and FRBs; FFT searches for millisecond pulsars and binary pulsars; and FFA searches for intermediate- and long-period pulsars.</p><p id="survey-footer">The tables below list publicly released discoveries. Records are updated after scientific review; source-level FRB entries retain their individual burst detections.</p></div>
+      </section>
+      <section class="survey-figures section-shell" aria-labelledby="survey-figures-title">
+        <div class="survey-figures-heading"><div><p class="section-kicker">DRIFT-SCAN GEOMETRY</p></div><h2 id="survey-figures-title">Coverage and beams.</h2></div>
+        <div class="survey-figure-grid">
+          <figure class="survey-figure"><img id="survey-pop-figure" src="./pop-drift-scan.png" alt="All-sky footprint of the FAST POP drift-scan survey" loading="lazy"><figcaption><strong>POP drift-scan footprint</strong><span>Survey tracks from successive observing periods and the public discovery distribution.</span></figcaption></figure>
+          <figure class="survey-figure"><img id="survey-fast19-figure" src="./fast19-drift-scan.png" alt="FAST 19-beam receiver footprint and drift-scan coverage" loading="lazy"><figcaption><strong>FAST 19-beam drift scan</strong><span>The native 19-beam footprint and the sky coverage accumulated during a drift scan.</span></figcaption></figure>
+        </div>
+      </section>
+      <section class="catalogue section-shell" id="catalog">
+        <div class="catalogue-heading"><div><p class="section-kicker">PUBLIC CATALOGUE</p><h2>Discoveries at a glance.</h2></div><div class="stats" aria-label="Catalogue totals"><div><strong id="pulsar-count">—</strong><span>Pulsars</span></div><div><strong id="frb-source-count">—</strong><span>FRB sources</span></div><div><strong id="frb-burst-count">—</strong><span>FRB bursts</span></div></div></div>
+        <div class="catalogue-controls"><label class="search-field"><span class="sr-only">Search catalogue</span><input id="catalogue-search" placeholder="Search name, ID, DM…"></label></div>
+        <p class="catalogue-status" id="catalogue-status" role="status">Loading public catalogue…</p>
+        <div class="table-wrap"><h3>FRB Discoveries</h3><table id="frb-table"><thead><tr><th>FRB</th><th>Source</th><th>R.A. / Dec.</th><th>Bursts</th><th>Max DM</th><th>Note</th></tr></thead><tbody></tbody></table></div>
+        <div class="table-wrap"><h3>Pulsar Discoveries</h3><table id="pulsar-table"><thead><tr><th>PSR J name</th><th>DC name</th><th>R.A. (J2000)</th><th>Dec. (J2000)</th><th>DM (pc cm⁻³)</th><th>Period (s)</th></tr></thead><tbody></tbody></table></div>
+      </section>
+      <section class="citation section-shell" id="citation"><p class="section-kicker">USING POP DATA</p><h2>A resource for pulsar studies.</h2><p>We will keep this page updated and hope it is useful for your pulsar studies. If you use this catalogue in a paper, please footnote this website URL. Thank you.</p></section>
+      <footer><span>POP · FAST Piggyback Observation of Pulsars</span><span>Public discovery catalogue</span></footer>
+    </main>
+  </body>
+</html>
