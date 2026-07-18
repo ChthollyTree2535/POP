@@ -15,7 +15,12 @@
       "burst_count": 1,
       "max_dm": 1846.7,
       "custom_values": {},
-      "media": []
+      "media": [
+        {
+          "url": "./media/bRkgA6ZrzZUZZbpAOZOHiBYeunBX5XGL.png",
+          "caption": "DFC001 Discovery plot"
+        }
+      ]
     },
     {
       "frb_id": "DFC002",
@@ -27,7 +32,12 @@
       "burst_count": 8,
       "max_dm": 1023.9,
       "custom_values": {},
-      "media": []
+      "media": [
+        {
+          "url": "./media/bq6-ZlecizXmpxLBxKYSDlhzbo8piEJ4.png",
+          "caption": "DFC002 Discovery plot"
+        }
+      ]
     },
     {
       "frb_id": "DFC003",
@@ -39,7 +49,12 @@
       "burst_count": 1,
       "max_dm": 1288.1,
       "custom_values": {},
-      "media": []
+      "media": [
+        {
+          "url": "./media/yIfT-aWr3mhtuYHegJb7dw630eVNcHJI.png",
+          "caption": "DFC003 Discovery plot"
+        }
+      ]
     },
     {
       "frb_id": "DFC004",
@@ -51,7 +66,12 @@
       "burst_count": 1,
       "max_dm": 1683.7,
       "custom_values": {},
-      "media": []
+      "media": [
+        {
+          "url": "./media/KYloVsS4YLvogmRJpNB0C0nuL2Abe3Wm.png",
+          "caption": "DFC004 Discovery plot"
+        }
+      ]
     },
     {
       "frb_id": "DFC005",
@@ -63,7 +83,12 @@
       "burst_count": 1,
       "max_dm": 585.3,
       "custom_values": {},
-      "media": []
+      "media": [
+        {
+          "url": "./media/gSwU7BeQTiXuEakQsS376ZouzpVav96t.png",
+          "caption": "DFC005 Discovery plot"
+        }
+      ]
     },
     {
       "frb_id": "DFC006",
@@ -75,7 +100,12 @@
       "burst_count": 1,
       "max_dm": 568.3,
       "custom_values": {},
-      "media": []
+      "media": [
+        {
+          "url": "./media/vPDe6FtZhuOME_qy4fuWax51l0YSe6aX.png",
+          "caption": "DFC006 Discovery plot"
+        }
+      ]
     },
     {
       "frb_id": "DFC007",
@@ -87,7 +117,12 @@
       "burst_count": 1,
       "max_dm": 2710.2,
       "custom_values": {},
-      "media": []
+      "media": [
+        {
+          "url": "./media/ZnWLPP9HpIxu50omBz9MwpOznHtr2dH2.png",
+          "caption": "DFC007 Discovery plot"
+        }
+      ]
     },
     {
       "frb_id": "DFC008",
@@ -99,7 +134,12 @@
       "burst_count": 1,
       "max_dm": 580.1,
       "custom_values": {},
-      "media": []
+      "media": [
+        {
+          "url": "./media/3dGBrXMmbu2am7KonYmtSSGyHYsnHCkO.png",
+          "caption": "DFC008 Discovery plot"
+        }
+      ]
     },
     {
       "frb_id": "DFC009",
@@ -111,7 +151,12 @@
       "burst_count": 1,
       "max_dm": 1330.4,
       "custom_values": {},
-      "media": []
+      "media": [
+        {
+          "url": "./media/XR9sKEZP_UCSQDWroG0wjqfJpMsmflln.png",
+          "caption": "DFC009 Discovery plot"
+        }
+      ]
     }
   ],
   "pulsars": [
