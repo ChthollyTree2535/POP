@@ -80,8 +80,8 @@
       "ra": "10:23:47.53",
       "dec": "+09:51:24.74",
       "note": "Repeating FRB",
-      "burst_count": 1,
-      "max_dm": 585.3,
+      "burst_count": 105,
+      "max_dm": 577.0,
       "custom_values": {},
       "media": [
         {
