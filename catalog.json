@@ -824,10 +824,10 @@
       "ra": "01:01:03.5",
       "dec": "+64:27:01.60",
       "dm": 228.9,
-      "period_s": 0.153646,
+      "period_s": 0.153642,
       "status": "confirmed",
       "custom_values": {
-        "confirmed_date": "20260628",
+        "confirmed_date": "20260718",
         "discovery_date": "20260527",
         "discovery_method": "SP",
         "note": ""
@@ -838,7 +838,7 @@
           "caption": "DC042 Discovery plot"
         },
         {
-          "url": "./media/c1qpRiZI_k4DEKAmyd0ZzKu8LDk6t5C6.png",
+          "url": "./media/PO7lpGPQT0cf0nODOmxGRUkgYxT7NiPU.png",
           "caption": "DC042 Confirmed plot"
         }
       ]
@@ -1099,11 +1099,11 @@
       "display_name": "J1450+1138",
       "ra": "14:50:47.8",
       "dec": "+11:38:36.38",
-      "dm": 32.8,
-      "period_s": null,
+      "dm": 32.32,
+      "period_s": 0.858398,
       "status": "confirmed",
       "custom_values": {
-        "confirmed_date": "",
+        "confirmed_date": "20260718",
         "discovery_date": "20260522",
         "discovery_method": "SP",
         "note": ""
@@ -1112,6 +1112,10 @@
         {
           "url": "./media/MbkJpIi57rImV2aTbs6omVDgaa7rhpNC.png",
           "caption": "DC061 Discovery plot"
+        },
+        {
+          "url": "./media/WQ3TAIfh02CH_5VwXhE89aPSDl4O0KLJ.png",
+          "caption": "DC061 Confirmed plot"
         }
       ]
     },
